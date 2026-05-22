@@ -1,0 +1,20 @@
+{
+  "last_run": null,
+  "items": [
+    {
+      "id": "seed-001",
+      "headline": "Blanche, Senate Republicans, and the “Anti-Weaponization Fund”",
+      "source_name": "CNN / Reuters-traced review",
+      "source_type": "major_news",
+      "url": "manual-reviewed-story",
+      "published_at": "2026-05-21",
+      "pulled_at": "manual",
+      "topic_group": "politics_public_life",
+      "candidate_score": 86,
+      "why_flagged": "High public significance, strong emotional framing, and disputed oversight questions.",
+      "primary_source_available": true,
+      "status": "published",
+      "editor_notes": "First reviewed story already promoted and published on site."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "schedule_hours": 72,
+  "max_candidates_per_cycle": 10,
+  "topic_groups": [
+    "politics_public_life",
+    "law_courts",
+    "labor_economics",
+    "media_narrative",
+    "religion_public_power"
+  ],
+  "sources": [
+    {
+      "name": "Reuters Politics",
+      "type": "major_news",
+      "feed_url": "https://feeds.reuters.com/Reuters/PoliticsNews",
+      "enabled": true
+    },
+    {
+      "name": "Associated Press Politics",
+      "type": "major_news",
+      "feed_url": "https://apnews.com/hub/apf-politics?output=amp",
+      "enabled": true
+    },
+    {
+      "name": "New York Times Politics",
+      "type": "major_news",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "enabled": true
+    },
+    {
+      "name": "Washington Post Politics",
+      "type": "major_news",
+      "feed_url": "https://feeds.washingtonpost.com/rss/politics",
+      "enabled": true
+    },
+    {
+      "name": "CNN Politics",
+      "type": "major_news",
+      "feed_url": "https://rss.cnn.com/rss/cnn_allpolitics.rss",
+      "enabled": true
+    },
+    {
+      "name": "Fox News Politics",
+      "type": "major_news",
+      "feed_url": "https://moxie.foxnews.com/google-publisher/politics.xml",
+      "enabled": true
+    },
+    {
+      "name": "ProPublica",
+      "type": "commentary",
+      "feed_url": "https://www.propublica.org/feeds/propublica/main",
+      "enabled": true
+    },
+    {
+      "name": "The Atlantic",
+      "type": "commentary",
+      "feed_url": "https://www.theatlantic.com/feed/all/",
+      "enabled": true
+    },
+    {
+      "name": "White House Briefing Room",
+      "type": "official_source",
+      "feed_url": "https://www.whitehouse.gov/briefing-room/feed/",
+      "enabled": true
+    },
+    {
+      "name": "DOJ News",
+      "type": "official_source",
+      "feed_url": "https://www.justice.gov/feeds/opa/justice-news.xml",
+      "enabled": true
+    },
+    {
+      "name": "Supreme Court Opinions",
+      "type": "official_source",
+      "feed_url": "https://www.supremecourt.gov/rss/opinionsrss.xml",
+      "enabled": true
+    },
+    {
+      "name": "Department of Labor News",
+      "type": "official_source",
+      "feed_url": "https://www.dol.gov/newsroom/releases/rss",
+      "enabled": true
+    }
+  ]
+}
