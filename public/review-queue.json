@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-28T06:48:09.719Z",
+  "last_run": "2026-05-31T06:54:50.991Z",
   "items": [
     {
       "id": "seed-001",
@@ -15,6 +15,21 @@
       "primary_source_available": true,
       "status": "published",
       "editor_notes": "First reviewed story already promoted and published on site."
+    },
+    {
+      "id": "eb630333aca5",
+      "headline": "Trump Squeezes Immigrants by Cutting Them Off From Jobs, Health Care and Housing",
+      "source_name": "New York Times Politics",
+      "source_type": "major_news",
+      "url": "https://www.nytimes.com/2026/05/30/us/politics/trump-immigrants-health-housing.html",
+      "published_at": "Sat, 30 May 2026 13:41:23 +0000",
+      "pulled_at": "2026-05-31T06:54:37.231Z",
+      "topic_group": "labor_economics",
+      "candidate_score": 70,
+      "why_flagged": "politics/public life, law/courts, labor/economics, human/public impact",
+      "primary_source_available": false,
+      "status": "new",
+      "editor_notes": ""
     },
     {
       "id": "d18994b7254d",
@@ -92,6 +107,21 @@
       "editor_notes": ""
     },
     {
+      "id": "0ef12bc594b1",
+      "headline": "Inside Trump’s Deal With the I.R.S. to Drop His $10 Billion Lawsuit",
+      "source_name": "New York Times Politics",
+      "source_type": "major_news",
+      "url": "https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html",
+      "published_at": "Sat, 30 May 2026 23:55:52 +0000",
+      "pulled_at": "2026-05-31T06:54:37.230Z",
+      "topic_group": "politics_public_life",
+      "candidate_score": 48,
+      "why_flagged": "politics/public life, law/courts",
+      "primary_source_available": false,
+      "status": "new",
+      "editor_notes": ""
+    },
+    {
       "id": "fad2d94cfeae",
       "headline": "With Big Decisions Ahead, the Supreme Court Collides With a Testy Trump",
       "source_name": "New York Times Politics",
@@ -101,6 +131,21 @@
       "pulled_at": "2026-05-25T07:08:07.068Z",
       "topic_group": "law_courts",
       "candidate_score": 48,
+      "why_flagged": "politics/public life, law/courts",
+      "primary_source_available": false,
+      "status": "new",
+      "editor_notes": ""
+    },
+    {
+      "id": "8e42e4214df9",
+      "headline": "5 Takeaways From a Kennedy Center Ruling That Angered Trump",
+      "source_name": "New York Times Politics",
+      "source_type": "major_news",
+      "url": "https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html",
+      "published_at": "Sat, 30 May 2026 09:02:56 +0000",
+      "pulled_at": "2026-05-31T06:54:37.231Z",
+      "topic_group": "politics_public_life",
+      "candidate_score": 46,
       "why_flagged": "politics/public life, law/courts",
       "primary_source_available": false,
       "status": "new",
@@ -392,6 +437,21 @@
       "editor_notes": ""
     },
     {
+      "id": "da7fee73e9fe",
+      "headline": "Trump on His Presidential Library: He’ll Write His Own History",
+      "source_name": "New York Times Politics",
+      "source_type": "major_news",
+      "url": "https://www.nytimes.com/2026/05/30/us/politics/trump-library.html",
+      "published_at": "Sat, 30 May 2026 09:00:25 +0000",
+      "pulled_at": "2026-05-31T06:54:37.231Z",
+      "topic_group": "politics_public_life",
+      "candidate_score": 34,
+      "why_flagged": "politics/public life, human/public impact",
+      "primary_source_available": false,
+      "status": "new",
+      "editor_notes": ""
+    },
+    {
       "id": "55196c6494b2",
       "headline": "Trump’s War Is Staggering to an Incoherent Defeat",
       "source_name": "The Atlantic",
@@ -437,6 +497,36 @@
       "editor_notes": ""
     },
     {
+      "id": "da2a14804b20",
+      "headline": "Is JD Vance the 2028 Front Runner? Trump Has Questions.",
+      "source_name": "New York Times Politics",
+      "source_type": "major_news",
+      "url": "https://www.nytimes.com/2026/05/30/us/politics/is-jd-vance-the-2028-front-runner-trump-has-questions.html",
+      "published_at": "Sat, 30 May 2026 09:01:53 +0000",
+      "pulled_at": "2026-05-31T06:54:37.231Z",
+      "topic_group": "politics_public_life",
+      "candidate_score": 32,
+      "why_flagged": "politics/public life, evidence instability",
+      "primary_source_available": false,
+      "status": "new",
+      "editor_notes": ""
+    },
+    {
+      "id": "8e6158e452ed",
+      "headline": "Trump’s doctor says he is in ‘excellent health’ after latest checkup",
+      "source_name": "Washington Post Politics",
+      "source_type": "major_news",
+      "url": "https://www.washingtonpost.com/politics/2026/05/30/trumps-doctor-says-his-health-is-excellent-after-walter-reed-visit/",
+      "published_at": "Sat, 30 May 2026 16:34:15 +0000",
+      "pulled_at": "2026-05-31T06:54:46.388Z",
+      "topic_group": "politics_public_life",
+      "candidate_score": 32,
+      "why_flagged": "politics/public life, evidence instability",
+      "primary_source_available": false,
+      "status": "new",
+      "editor_notes": ""
+    },
+    {
       "id": "8c5e1441ce9f",
       "headline": "Trump’s Pursuit of a Partnership With China Raises Concerns in India",
       "source_name": "New York Times Politics",
@@ -452,6 +542,21 @@
       "editor_notes": ""
     },
     {
+      "id": "e0f595ecd458",
+      "headline": "Senator Dan Sullivan Has a New Challenger in Alaska: Dan Sullivan",
+      "source_name": "New York Times Politics",
+      "source_type": "major_news",
+      "url": "https://www.nytimes.com/2026/05/30/us/politics/dan-sullivan-election-senate-alaska.html",
+      "published_at": "Sat, 30 May 2026 22:31:25 +0000",
+      "pulled_at": "2026-05-31T06:54:37.231Z",
+      "topic_group": "politics_public_life",
+      "candidate_score": 30,
+      "why_flagged": "politics/public life, human/public impact",
+      "primary_source_available": false,
+      "status": "new",
+      "editor_notes": ""
+    },
+    {
       "id": "cf7bfedbcc96",
       "headline": "Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service",
       "source_name": "New York Times Politics",
@@ -459,6 +564,36 @@
       "url": "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html",
       "published_at": "Mon, 25 May 2026 02:32:08 +0000",
       "pulled_at": "2026-05-25T07:08:07.068Z",
+      "topic_group": "politics_public_life",
+      "candidate_score": 28,
+      "why_flagged": "politics/public life",
+      "primary_source_available": false,
+      "status": "new",
+      "editor_notes": ""
+    },
+    {
+      "id": "ba7a5394ee2f",
+      "headline": "Lawmakers Ask DOJ Watchdog to Investigate Alleged Drugs-for-Votes Scheme After ProPublica Report",
+      "source_name": "ProPublica",
+      "source_type": "commentary",
+      "url": "https://www.propublica.org/article/puerto-rico-trump-drugs-for-votes-doj-inspector-general-investigation",
+      "published_at": "Tue, 26 May 2026 09:00:00 +0000",
+      "pulled_at": "2026-05-31T06:54:46.863Z",
+      "topic_group": "law_courts",
+      "candidate_score": 28,
+      "why_flagged": "law/courts, human/public impact",
+      "primary_source_available": false,
+      "status": "new",
+      "editor_notes": ""
+    },
+    {
+      "id": "6ac97678d8ff",
+      "headline": "White House Releases Results of Trump’s Latest Physical Exam",
+      "source_name": "New York Times Politics",
+      "source_type": "major_news",
+      "url": "https://www.nytimes.com/2026/05/30/us/politics/trump-health-medical-physical-exam.html",
+      "published_at": "Sat, 30 May 2026 04:49:07 +0000",
+      "pulled_at": "2026-05-31T06:54:37.231Z",
       "topic_group": "politics_public_life",
       "candidate_score": 28,
       "why_flagged": "politics/public life",
